@@ -1,7 +1,7 @@
 Hi there 👋
 Here are some ideas to get you started:
    🔭 I’m currently working at Indium Software,Chennai
-   🌱 I’m currently pursuing M.Sc Data Science
+   🌱 I’m completed M.Sc Data Science
    📫 How to reach me: www.linkedin.com/in/surya-a-16071998 (LinkedIn)
    ⚡ Fun fact: I'm a lazy person
    📫 More details - ss9965939522@gmail.com
